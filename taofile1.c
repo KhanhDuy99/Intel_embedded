@@ -3,6 +3,7 @@
 int main()
 {
     printf("chinh sua lan 1");
+    dong bo file nay 
     return 0;
 
 }
