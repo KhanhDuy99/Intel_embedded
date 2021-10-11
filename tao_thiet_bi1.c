@@ -3,6 +3,8 @@
 int main()
 {
     printf("tao thiet bi 1");
+    printf("them tinh nang 3");
+    
     
     return 0;
 
